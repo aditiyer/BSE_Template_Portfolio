@@ -41,7 +41,6 @@ Below are all the materials required to create this project.
 | Jumper Wires  | 8  | $0.20 each  | https://www.amazon.com/BOJACK-Solderless-Flexible-Breadboard-Connecting/dp/B08YRPWC8L  |
 | Capacitive Soil Moisture Sensor v1.2  | 1  | $6.99 for 3  | https://www.amazon.com/DAOKI-Capacitive-Corrosion-Resistant-Electronic/dp/B085XSQXC5 |
 | LEDs  | 2 (1 red, 1 green)  | $6.99 for 100  | https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH |
-| Capacitive Soil Moisture Sensor v1.2  | 1  | $$9.99 for 5  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP |
-| Resistors  | 2  | $$9.99 for 5  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP |
-| Piezo Buzzer | 1  | $$9.99 for 5  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP |
-| 9 Volt Energizer Battery | 1  | $$9.99 for 5  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP |
+| Resistors  | 2  | $6.93 for 100  | https://www.amazon.com/Projects-100EP514100R-100-Resistors-Pack/dp/B00AVSDYFO |
+| Piezo Buzzer | 1  | $7.79 for 10  | https://www.amazon.com/a15091400ux0103-Electronic-Mounting-Passive-Sounder/dp/B018I1WBNQ |
+| 9 Volt Energizer Battery | 1  | $7.99 for 2  | https://www.amazon.com/Energizer-2513-Alkaline-Battery-522BP/dp/B079NNB63D |
