@@ -1,9 +1,11 @@
 ﻿# Garden Monitoring System
-I picked this project because I have an interest in gardening and I thought making something that lets you know when to water your plants would be useful for all gardeners.
+Hi, my name is Aditi and I picked the garden monitoring system as my project. I was interested in this project because it has important real life applications, and on a bigger scale, could majorly help farmers maintain the health of their crops. This project works by using a soil moisture sensor to sense the amount of moisture in the soil, comparing that to the adequate value of moisture, and turning on a red or green LED depending on the result. It also buzzes to remind you to water your plant!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Aditi | Fremont High School | Industrial Design | Incoming Junior
+
+<a href="https://ibb.co/4tfPFn6"><img src="https://i.ibb.co/LRPn0XL/unnamed.jpg" alt="unnamed" border="0"></a>
 
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
