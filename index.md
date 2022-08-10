@@ -7,8 +7,10 @@ Hi, my name is Aditi and I picked the garden monitoring system as my project. I 
 
 <a href="https://ibb.co/4tfPFn6"><img src="https://i.ibb.co/LRPn0XL/unnamed.jpg" alt="unnamed" border="0"></a>
 
-![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
-  
+# My Project
+Here is a photo of my finished project. 
+<a href="https://ibb.co/d59RS6H"><img src="https://i.ibb.co/4VyHcM0/image.jpg" alt="image" border="0"></a>
+
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
