@@ -30,3 +30,18 @@ For my second milestone, I added a buzzer. Now, when the soil is dry, the buzzer
 My first milestone was to get familiar with the sensor and to make a basic project that detects if there is enough moisture in the soil. There are two types of soil moisture sensors widely used - capacitive sensors and resistive sensors. Capacitive soil moisture sensors work by sensing the dissolved ions in the moisture. Resistive sensors work by measuring the amount of electricity conducted in the soil (dry soil conducts electricity poorly). I used the capacitive soil moisture sensor v1.2 because it is more accurate than its resisitive counterpart. When the sensor is in dry soil, the red LED glows and the message "Time to water your plant" is printed to the serial monitor. When the sensor is in wet soil, the green LED glows and the message "No need to water" is printed to the serial monitor. The biggest challenge I had with this first milestone was my sensor, because it wasn't giving me reliable values which casued a lot of issues. However, it suddenly started working so my overall project began working so that was relieving. 
 
 [![Aditi Iyer Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659123103/video_to_markdown/images/youtube--0P7yvY682BA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/0P7yvY682BA "Aditi Iyer Milestone 1"){:target="_blank" rel="noopener"}
+
+# Materials
+Below are all the materials required to create this project.
+
+| Item | Amount | Price | Buy here |
+| ------------- | ------------- | ------------- | ------------- |
+| Arduino UNO REV3  | 1  | $24.49  | https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6  |
+| Breadboard  | 1  | $8.75  | https://www.amazon.com/BB830-Solderless-Plug-BreadBoard-tie-Points/dp/B0040Z4QN8  |
+| Jumper Wires  | 8  | $0.20 each  | https://www.amazon.com/BOJACK-Solderless-Flexible-Breadboard-Connecting/dp/B08YRPWC8L  |
+| Capacitive Soil Moisture Sensor v1.2  | 1  | $6.99 for 3  | https://www.amazon.com/DAOKI-Capacitive-Corrosion-Resistant-Electronic/dp/B085XSQXC5 |
+| LEDs  | 2 (1 red, 1 green)  | $6.99 for 100  | https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH |
+| Capacitive Soil Moisture Sensor v1.2  | 1  | $$9.99 for 5  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP |
+| Resistors  | 2  | $$9.99 for 5  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP |
+| Piezo Buzzer | 1  | $$9.99 for 5  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP |
+| 9 Volt Energizer Battery | 1  | $$9.99 for 5  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP |
