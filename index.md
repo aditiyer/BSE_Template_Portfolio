@@ -6,14 +6,14 @@ Hi, my name is Aditi and I picked the garden monitoring system as my project. I 
 | Aditi | Fremont High School | Industrial Design | Incoming Junior
 
 <p align ="center">
-<a href="https://ibb.co/bHQxJ9m"><img src="https://i.ibb.co/z8Q1Jvx/unnamed.jpg" alt="unnamed" border="0"></a>
+<a href="https://ibb.co/W5VkLBw"><img src="https://i.ibb.co/c3Y6j2H/unnamed.jpg" alt="unnamed" border="0"></a>
 </p>
 
 # My Project
 Here is a photo of my finished project. 
 
 <p align="center">
-<a href="https://ibb.co/d59RS6H"><img src="https://i.ibb.co/4VyHcM0/image.jpg" alt="image" border="0"></a>
+<a href="https://ibb.co/Ptnw4rZ"><img src="https://i.ibb.co/M94MpgD/image.jpg" alt="image" border="0"></a>
 </p>
 
 # Final Milestone
