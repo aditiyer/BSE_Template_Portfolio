@@ -17,7 +17,7 @@ Here is a photo of my finished project.
 </p>
 
 # Final Milestone
-For my final milestone, I tested the sensor and fine tuned it. 
+For my final milestone, I tested the sensor and fine tuned it. Now, it works with 100% accuracy. Now that I added a battery, the arduino no longer had to be plugged into a computer to work, which made it much more portable. To make it even more condensed and easy to use, I used rubberbands to attach the arduino to the top of the breadboard and the battery to the bottom. Now, you can carry the entire machine in one hand and use the sensor with the other. Overall, I enjoyed making my project and thinking of modifications. My favorite part was using the tone() command to make the buzzer make noise, which was difficult, but rewarding when it finally worked. If I had more time, I would create something to cover the control board of the sensor like I mentioned in my milestone 2 video, but becauseit works very accurately and serves its purpose, I am satisifed.
 
 [![Aditi Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1660238516/video_to_markdown/images/youtube--1IBvHLctiQA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/1IBvHLctiQA "Aditi Milestone 3"){:target="_blank" rel="noopener"}
 
