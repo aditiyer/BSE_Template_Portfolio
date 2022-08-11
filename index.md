@@ -140,6 +140,7 @@ If you're thinking about building this project, here are some tips I wish I knew
 
 - When you calibrate your values, your sensor should be giving you one value with a slight fluctuation. For example, let's say it is 400, it shouldn't go any more than 401 or 399. If it is giving you numbers all over the place, check two things.
                - Firstly, make sure the black, red, and yellow wires are properly in the white holder that is on the edge of the sensor's control board. Sometimes removing it and then pushing it back in with some pressure fixes the issue.
+             
                - Secondly, look carefully at the sensor's control board for the letters in front of the white holder. You will notice that each wire corresponds to a different pin (GND, VCC, and AOUT). Make sure that the wire that connects to the GND pin is in the GND pin and so on. This might seem obvious but I missed it at first so just check that you did that correctly.
 
 - Be careful with which pin you decide to place the VCC wire in, 3.3 volts or 5 volts. For me, when I put it in the 5 volt pin, the sensor started smoking and was fried, so I had to use my second one. I reccomend using 3.3v instead. 
@@ -155,4 +156,4 @@ Finally, here are the websites I used to help me with this project.
 - https://www.arduino.cc/reference/en/language/functions/advanced-io/tone/ 
 - https://youtu.be/1_LMAgO14z0 
 
-# Thank you for looking at my website! 
+## Thank you for looking at my website! 
