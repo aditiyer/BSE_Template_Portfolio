@@ -20,7 +20,7 @@ Here is a photo of my finished project.
 Here is the link to the slideshow I used to present on Demo Night.
 
 <p align="center">
-<iframe src="https://docs.google.com/presentation/d/1lDWmDz4JCA1dKIctdM5ubrDlsJlZWcHErkmopH6RWTI/present#slide=id.p" frameborder="0" frameborder="0" width="760" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1lDWmDz4JCA1dKIctdM5ubrDlsJlZWcHErkmopH6RWTI/present" frameborder="0" frameborder="0" width="760" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 # Final Milestone
