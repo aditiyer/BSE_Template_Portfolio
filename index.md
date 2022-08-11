@@ -6,7 +6,7 @@ Hi, my name is Aditi and I picked the garden monitoring system as my project. I 
 | Aditi | Fremont High School | Industrial Design | Incoming Junior
 
 <p align ="center">
-<a href="https://ibb.co/W5VkLBw"><img src="https://i.ibb.co/c3Y6j2H/unnamed.jpg" alt="unnamed" border="0">
+<a href="https://ibb.co/W5VkLBw"><img src="https://i.ibb.co/c3Y6j2H/unnamed.jpg" alt="unnamed" border="0" height="200" width="200">
 </p>
 
 # My Project
@@ -17,7 +17,7 @@ Here is a photo of my finished project.
 </p>
 
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+For my final milestone, I tested the sensor and fine tuned it. 
 
 [![Aditi Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1660238516/video_to_markdown/images/youtube--1IBvHLctiQA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/1IBvHLctiQA "Aditi Milestone 3")
 # Second Milestone
