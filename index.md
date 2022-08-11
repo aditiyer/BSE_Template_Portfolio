@@ -18,7 +18,10 @@ Here is a photo of my finished project.
 
 # Slideshow 
 Here is the link to the slideshow I used to present on Demo Night.
-https://docs.google.com/presentation/d/1lDWmDz4JCA1dKIctdM5ubrDlsJlZWcHErkmopH6RWTI/edit?usp=sharing 
+
+<p align="center">
+<iframe src="https://docs.google.com/presentation/d/1lDWmDz4JCA1dKIctdM5ubrDlsJlZWcHErkmopH6RWTI/edit?usp=sharing" frameborder="0" frameborder="0" width="760" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
 
 # Final Milestone
 For my final milestone, I tested the sensor and fine tuned it. Now, it works with 100% accuracy. Now that I added a battery, the arduino no longer had to be plugged into a computer to work, which made it much more portable. To make it even more condensed and easy to use, I used rubberbands to attach the arduino to the top of the breadboard and the battery to the bottom. Now, you can carry the entire machine in one hand and use the sensor with the other. Overall, I enjoyed making my project and thinking of modifications. My favorite part was using the tone() command to make the buzzer make noise, which was difficult, but rewarding when it finally worked. If I had more time, I would create something to cover the control board of the sensor like I mentioned in my milestone 2 video, but because it works very accurately and serves its purpose, I am satisifed.
@@ -132,3 +135,24 @@ void loop() {
 }
 ```
 
+# My Tips
+If you're thinking about building this project, here are some tips I wish I knew before I started : 
+
+- When you calibrate your values, your sensor should be giving you one value with a slight fluctuation. For example, let's say it is 400, it shouldn't go any more than 401 or 399. If it is giving you numbers all over the place, check two things.
+               - Firstly, make sure the black, red, and yellow wires are properly in the white holder that is on the edge of the sensor's control board. Sometimes removing it and then pushing it back in with some pressure fixes the issue.
+               - Secondly, look carefully at the sensor's control board for the letters in front of the white holder. You will notice that each wire corresponds to a different pin (GND, VCC, and AOUT). Make sure that the wire that connects to the GND pin is in the GND pin and so on. This might seem obvious but I missed it at first so just check that you did that correctly.
+
+- Be careful with which pin you decide to place the VCC wire in, 3.3 volts or 5 volts. For me, when I put it in the 5 volt pin, the sensor started smoking and was fried, so I had to use my second one. I reccomend using 3.3v instead. 
+
+- I highly reccomend using an Energizer battery like I did to power the arduino, because if you want to walk around and use the sensor, it will be very difficult to carry a laptop around on top of the 3 different parts. Using rubberbands and a battery really simplifies the machine and makes it much easier to use. 
+
+- The buzzer can be difficult to put into the breadboard, because it needs to be really perfectly in there for it to make noise. Just press hard and make sure it stays firmly inside. 
+
+# Helpful Websites
+Finally, here are the websites I used to help me with this project.
+- https://www.circuits-diy.com/how-to-interface-soil-moisture-sensor-yl-69-hl-69-with-arduino-uno/
+- https://wiki.dfrobot.com/Capacitive_Soil_Moisture_Sensor_SKU_SEN0193 
+- https://www.arduino.cc/reference/en/language/functions/advanced-io/tone/ 
+- https://youtu.be/1_LMAgO14z0 
+
+# Thank you for looking at my website! 
