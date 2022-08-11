@@ -16,6 +16,10 @@ Here is a photo of my finished project.
 <a href="https://ibb.co/Ptnw4rZ"><img src="https://i.ibb.co/M94MpgD/image.jpg" alt="image" border="0"></a>
 </p>
 
+# Slideshow 
+Here is the link to the slideshow I used to present on Demo Night.
+https://docs.google.com/presentation/d/1lDWmDz4JCA1dKIctdM5ubrDlsJlZWcHErkmopH6RWTI/edit?usp=sharing 
+
 # Final Milestone
 For my final milestone, I tested the sensor and fine tuned it. Now, it works with 100% accuracy. Now that I added a battery, the arduino no longer had to be plugged into a computer to work, which made it much more portable. To make it even more condensed and easy to use, I used rubberbands to attach the arduino to the top of the breadboard and the battery to the bottom. Now, you can carry the entire machine in one hand and use the sensor with the other. Overall, I enjoyed making my project and thinking of modifications. My favorite part was using the tone() command to make the buzzer make noise, which was difficult, but rewarding when it finally worked. If I had more time, I would create something to cover the control board of the sensor like I mentioned in my milestone 2 video, but becauseit works very accurately and serves its purpose, I am satisifed.
 
