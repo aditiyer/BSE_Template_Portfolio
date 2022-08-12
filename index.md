@@ -13,7 +13,7 @@ Hi, my name is Aditi and I picked the garden monitoring system as my project. I 
 Here is a photo of my finished project. 
 
 <p align="center">
-<a href="https://ibb.co/Ptnw4rZ"><img src="https://i.ibb.co/M94MpgD/image.jpg" alt="image" border="0" width="550" width="400"></a>
+<a href="https://ibb.co/Ptnw4rZ"><img src="https://i.ibb.co/M94MpgD/image.jpg" alt="image" border="0" width="600" width="400"></a>
 </p>
 
 # Slideshow 
